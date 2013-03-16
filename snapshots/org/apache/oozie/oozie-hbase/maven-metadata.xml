@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.oozie</groupId>
+  <artifactId>oozie-hbase</artifactId>
+  <versioning>
+    <versions>
+      <version>0.94.2.oozie-4.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130316023715</lastUpdated>
+  </versioning>
+</metadata>
